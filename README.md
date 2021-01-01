@@ -1,4 +1,4 @@
-### Juan Chango
+## Juan Francisco Chango Perugachi
 
 - 📱 Android Developer - Kotlin 💙
 - 🐍 Python geek (data science, django, dsp, ...)
