@@ -1,5 +1,7 @@
 ## Juan Francisco Chango Perugachi
 
+![image](https://jnfran92.com/assets/img/photo_min.png)
+
 - 📱 Android Developer - Kotlin 💙
 - 🐍 Python geek (data science, django, dsp, ...)
 - 🤖 AI/ML Enthusiast
