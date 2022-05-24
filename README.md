@@ -3,10 +3,10 @@
 
 ## Juan Francisco Chango Perugachi
 
-📱 Android & iOS - Kotlin & Swift 💙🧡 
-🌐 Vue.js / Django / Amplify & Back4App - TypeScript 🔥
-🤖 AI/ML: Tensorflow, Pandas, Keras. 💪🐍
-⚗️ Numerical Simulation, Python, C/C++, CUDA, GPU...
+- 📱 Android & iOS - Kotlin & Swift 💙🧡 
+- 🌐 Vue.js / Django / Amplify & Back4App - TypeScript 🔥
+- 🤖 AI/ML: Tensorflow, Pandas, Keras. 💪🐍
+- ⚗️ Numerical Simulation, Python, C/C++, CUDA, GPU...
 
 Completely passionate about Coding and Music. I am from Quito-Ecuador 🇪🇨, but now I am living in Santiago-Chile 🇨🇱. I hold a Masters Degree in Computer Science and I won a PhD scholarship but I postponed it due pandemic.
 
