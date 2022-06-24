@@ -1,5 +1,4 @@
 
-![image](https://jnfran92.com/assets/img/photo_min.png)
 
 ## Juan Francisco Chango Perugachi
 
