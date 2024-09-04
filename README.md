@@ -4,6 +4,6 @@
 
 - 📱 Senior Android Dev
 - 🟢 Vue.js Enthusiast
-- 🤖 AI/ML & HPC
+- 🤖 Intrested in AI/ML & HPC
 
 Please check: https://jnfran92.com/
