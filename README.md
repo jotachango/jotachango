@@ -10,4 +10,4 @@ I have a deep passion for coding and music. Originally from Quito, Ecuador 🇪�
 
 Currently, I work as a Senior Software Developer at Falabella💚 I’m always open to exploring new research projects or exciting opportunities in software development or AI. If you’re working on something interesting, feel free to reach out!
 
-Please check: https://jnfran92.com/
+Please check: https://jotachango.com/
